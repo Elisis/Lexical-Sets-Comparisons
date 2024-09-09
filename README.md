@@ -6,7 +6,7 @@ Sets are grouped as follows, in accordance with RP phonology:
 
 | Group | Placements | Sets |
 | ----- | ------ | ---- |
-| A | Close to Close-Mid | happY, FLEECE, KIT, FOOT, GOOSE |
+| A | Close to Close-Mid | happY, FLEECE, KIT, DRESS, FOOT, GOOSE |
 | B | Mid to Open-Mid | lettER, commA, NURSE, STRUT, THOUGHT, NORTH, FORCE |
 | C | Near-Open to Open | TRAP, BATH, PALM, START, LOT, CLOTH |
 
